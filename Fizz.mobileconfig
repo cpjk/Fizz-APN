@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>This profile sets the default and data APN to mobile.bm. Please use referral code 1XIEV if this helped you, thanks!</string>
+		<string>This profile sets the default and data APN to mobile.bm.</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
@@ -37,11 +37,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile sets the default and data APN to mobile.bm. Please use referral code 1XIEV if this helped you, thanks!</string>
+	<string>This profile sets the default and data APN to mobile.bm. https://github.com/cpjk/Fizz-APN</string>
 	<key>PayloadDisplayName</key>
-	<string>Fizz - Referral 1XIEV</string>
+	<string>Fizz</string>
 	<key>PayloadIdentifier</key>
-	<string>david.manouchehri.fizz.20181110</string>
+	<string>chris.kelly.fizz.20181110</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
